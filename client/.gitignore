@@ -42,6 +42,8 @@ npm-debug.log
 yarn-error.log
 testem.log
 /typings
+*.rdb
+*.db
 
 # System Files
 .DS_Store
